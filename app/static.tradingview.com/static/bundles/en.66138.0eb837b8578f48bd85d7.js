@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[66138],{689439(e){e.exports=["Sign up for free to unlock full access to our seasonality tool. Select the years to compare, analyze monthly price behavior, and discover historical patterns with ease."]},892084(e){e.exports=["Spot seasonal trends across years"]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[65911],{799273(a){a.exports=["Data is delayed"]},75407(a){a.exports=["To unlock real-time data for National Stock Exchange of India, upgrade to any paid plan."]}}]);

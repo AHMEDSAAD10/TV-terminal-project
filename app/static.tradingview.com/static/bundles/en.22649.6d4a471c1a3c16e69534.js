@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[22649],{376760(e){e.exports=["Label border"]},818817(e){e.exports=["Label background"]},834834(e){e.exports=["Label text"]},883354(e){e.exports=["Line color"]},69406(e){e.exports=["change {title} line color"]}}]);

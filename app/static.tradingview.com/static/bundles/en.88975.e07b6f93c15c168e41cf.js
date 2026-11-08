@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[88975],{658781(e){e.exports=["Compare to your heart's content"]},984443(e){e.exports=["The compare function tool is used to compare the market movements of two or more different symbols simultaneously. Use it with our free plan."]}}]);

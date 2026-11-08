@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[75560],{336795(e){e.exports=["Market cap"]},156741(e){e.exports=["See more events"]},938732(e){e.exports=["Offer price"]},818822(e){e.exports=["No scheduled reports"]},381493(e){e.exports=["Last"]},909610(e){e.exports=["Exchange"]},505509(e){e.exports=["Latest valuation"]}}]);

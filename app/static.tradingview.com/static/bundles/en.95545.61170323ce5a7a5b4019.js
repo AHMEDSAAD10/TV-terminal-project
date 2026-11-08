@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[20866,95545],{820866(e){e.exports=["Close"]},641770(e){e.exports=["It's time to update your password to keep it fresh. Next time you sign in we'll send instructions to the email address listed in your Profile Settings."]},445475(e){e.exports=["Update password to stay secure"]}}]);

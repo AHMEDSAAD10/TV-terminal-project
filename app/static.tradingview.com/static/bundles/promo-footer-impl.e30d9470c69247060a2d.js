@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[1175],{349323(o,t,e){e.d(t,{promoFooterInitImpl:()=>n});var r=e(245130),i=e(350149);function n(){document.querySelector(".js-promo-footer-init-ssr")&&(0,r.hydrateReactRootWithInitData)(i.PromoFooter,".js-promo-footer-init-ssr")}}}]);

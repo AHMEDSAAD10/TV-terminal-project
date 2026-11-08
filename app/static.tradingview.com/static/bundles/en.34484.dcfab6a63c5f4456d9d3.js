@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[34484],{75996(e){e.exports=["Save this chart"]},410479(e){e.exports=["Don't repeat yourself. Don't repeat yourself. Get a free account with us and you'll be able to save your chart set-up and return to it later."]}}]);

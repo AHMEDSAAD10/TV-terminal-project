@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[81822],{792539(e){e.exports=["Exit replay mode"]},363458(e){e.exports=["Trade with your broker"]},300008(e){e.exports=["You can't work with real orders and positions while replay mode is on. Exit it to dive into real trading."]},339608(e){e.exports=["You're in replay mode"]}}]);

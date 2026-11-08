@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[28353],{899814(e){e.exports=["secs"]},548132(e){e.exports=["Explore the deal"]},24114(e){e.exports=["Save up to {discount}% on your subscription with this exclusive offer. Don’t let it pass by."]},311206(e){e.exports=["day","days"]},97042(e){e.exports=["hour","hours"]},992574(e){e.exports=["min","mins"]}}]);

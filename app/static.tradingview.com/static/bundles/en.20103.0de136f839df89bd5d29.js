@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[20103],{834849(e){e.exports=["Discover higher-precision data"]},598759(e){e.exports=["Upgrade your plan to unlock more accurate simulation. Analyze historical data using lower-timeframe bars."]}}]);

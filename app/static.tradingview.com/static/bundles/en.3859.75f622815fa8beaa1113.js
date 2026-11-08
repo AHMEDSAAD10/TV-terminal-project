@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[3859],{497339(e){e.exports=["React instantly with webhook notifications"]},244473(e){e.exports=["Unlock endless algorithmic trading opportunities with instant reactions to triggered alerts — only on our upgraded plans. Take your analysis and algo trading to a whole new level."]}}]);

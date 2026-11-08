@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[4613],{752954(e){e.exports=["Discover indicators"]},299327(e){e.exports=["Learn how technical and fundamental indicators work — and how they transform price, volume, and other data into clearer trading decisions."]},955062(e){e.exports=["See more market insights with indicators"]}}]);

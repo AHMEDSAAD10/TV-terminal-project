@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[90846],{290846(e){e.exports=["Show solution"]}}]);

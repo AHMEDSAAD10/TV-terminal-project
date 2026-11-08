@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[97033],{73135(e){e.exports=["Collapse panel"]},456897(e){e.exports=["Close"]},512461(e){e.exports=["Fullscreen mode"]},877680(e){e.exports=["Restore panel"]},443217(e){e.exports=["Move overlay to split-view"]},370300(e){e.exports=["Move split-view to overlay"]}}]);

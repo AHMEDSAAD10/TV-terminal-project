@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[48599],{465483(e){e.exports=["Default"]},438537(e){e.exports=["change strategy property"]}}]);

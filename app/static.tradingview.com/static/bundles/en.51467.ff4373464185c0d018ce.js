@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[51467],{451390(e){e.exports=["This strategy can't be published"]},968680(e){e.exports=["Got it"]},808565(e){e.exports=["Strategies tested on {link}chart types with synthetic prices{_link} like Heikin Ashi, Renko, Kagi, and others can't be published. To do that, change the chart type."]}}]);

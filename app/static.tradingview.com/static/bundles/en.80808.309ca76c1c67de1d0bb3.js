@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[80808],{544504(s){s.exports=["Multicolor flagged symbols"]},804695(s){s.exports=["Flag marks are useful for noting points of significance on your watchlists, screeners and charts. Customize your planning with multicolored flags, only on our upgraded plans."]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[11587],{72262(e){e.exports=["Export all the Screener info you need with one of our upgraded plans. Simple."]},39244(e){e.exports=["Export data to where you need it"]}}]);

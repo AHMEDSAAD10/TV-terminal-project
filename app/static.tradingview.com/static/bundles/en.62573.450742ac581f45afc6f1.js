@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[62573],{294236(e){e.exports=["Build screens with AI"]},764718(e){e.exports=["Describe your screening idea to AI Screener and let it select filters and sort the results for you."]}}]);

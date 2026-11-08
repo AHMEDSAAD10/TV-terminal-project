@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[18157],{931981(r){r.exports=["Explore all plans"]},372410(r){r.exports=["Power up your plan"]},108899(r){r.exports=["You're currently limited to {barLimit}. Upgrade your subscription now to see further back in time."]},210448(r){r.exports=["{barsLimit} bar","{barsLimit} bars"]}}]);

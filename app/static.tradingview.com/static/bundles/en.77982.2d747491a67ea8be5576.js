@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[77982],{102469(e){e.exports=["Get {i18nScriptName} and many other fundamental forecast metrics directly on your chart."]},804330(e){e.exports=["Upgrade your plan to unlock forecasts metrics"]}}]);

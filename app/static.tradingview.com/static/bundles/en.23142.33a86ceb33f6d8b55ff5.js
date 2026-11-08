@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[23142],{11517(e){e.exports=["Accept"]},74926(e){e.exports=["Decline offer"]},304279(e){e.exports=["Exclusive 3-for-2 offer"]},47825(e){e.exports=["Need a longer test drive? Grab this one-time deal and get three months' access for the price of two."]}}]);

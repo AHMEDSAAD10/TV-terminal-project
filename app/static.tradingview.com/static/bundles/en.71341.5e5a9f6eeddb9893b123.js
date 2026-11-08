@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[27820,71341],{715254(e){e.exports=["Undo"]},956385(e){e.exports=["Unfollowed {username}"]},540399(e){e.exports=["Followed {username}"]},127820(e){e.exports=["Close"]}}]);

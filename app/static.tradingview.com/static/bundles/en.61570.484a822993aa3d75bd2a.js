@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[61570],{389442(t){t.exports=["Discover watchlists"]},691015(t){t.exports=["Explore how to create, customize, and use watchlists so you don't miss a single market movement."]},817659(t){t.exports=["How to track the markets with watchlists"]}}]);

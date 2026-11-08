@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[51032],{429908(e){e.exports=["Go to purchased scripts"]},514066(e){e.exports=["It's time to check out all the scripts by {username} you got access to. Find them in your purchased scripts."]},447172(e){e.exports=["{paidSpaceName} is now available for you"]}}]);

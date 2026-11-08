@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[21366],{784526(e){e.exports=["Export strategy report data"]},265333(e){e.exports=["Take your strategies with you. Upgrade your plan today and export your performance and overview data to a XLSX file."]}}]);

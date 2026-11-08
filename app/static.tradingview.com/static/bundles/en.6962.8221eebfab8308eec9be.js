@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[6962,30368,54910],{54910(e){e.exports=["Close menu"]},30368(e){e.exports=["Add"]},11238(e){e.exports=["Add custom interval"]},397499(e){e.exports=["Interval already exists, please use a different value"]},764992(e){e.exports=["Interval value is too big, please try again"]},141019(e){e.exports=["Type"]}}]);

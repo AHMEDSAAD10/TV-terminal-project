@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[37566],{247366(e){e.exports=["Alerts on your plan expire after two months. But, good news, you can upgrade your plan to get non-expiring alerts. Great if you're thinking about long-term trading opportunities."]},43911(e){e.exports=["Want alerts that never die?"]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[62724],{102442(e){e.exports=["Create alerts to track the news on chosen assets and markets with any criteria you need."]},381835(e){e.exports=["Join to use news alerts"]}}]);

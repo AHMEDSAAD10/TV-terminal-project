@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[51002],{524331(e){e.exports=["Restore your full layout"]},123424(e){e.exports=["Upgrade your plan to restore your full chart setup. We've saved your layout as it was, so you can get back to your analysis without rebuilding it."]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[64122],{839390(e){e.exports=["Cyan list"]},573807(e){e.exports=["Blue list"]},459402(e){e.exports=["Green list"]},506330(e){e.exports=["Orange list"]},941986(e){e.exports=["Pink list"]},907874(e){e.exports=["Purple list"]},165501(e){e.exports=["Red list"]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[2932],{663882(e){e.exports=["Select"]},322690(e){e.exports=["Period"]},98440(e){e.exports=["Please enter the right date format yyyy-mm-dd"]}}]);

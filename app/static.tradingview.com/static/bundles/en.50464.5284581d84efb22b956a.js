@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[50464],{610282(e){e.exports=["Retrieve your saved indicators without having to individually search for them all again. Our free plan is enough to grant you access."]},351901(e){e.exports=["Templatize your indicator set-ups"]}}]);

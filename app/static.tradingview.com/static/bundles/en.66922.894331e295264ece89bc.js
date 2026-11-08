@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[27820,66922],{699424(s){s.exports=["Switch"]},127820(s){s.exports=["Close"]},80964(s){s.exports=["Switch to this symbol's primary exchange to access 24-hour session"]}}]);

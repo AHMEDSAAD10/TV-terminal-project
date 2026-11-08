@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[69450],{464523(e){e.exports=["Maximize chart"]},102492(e){e.exports=["Restore chart"]}}]);

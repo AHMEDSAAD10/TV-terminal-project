@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[34474,69456],{969456(e){e.exports=["Show definition"]},531863(e){e.exports=["Related economic events"]}}]);

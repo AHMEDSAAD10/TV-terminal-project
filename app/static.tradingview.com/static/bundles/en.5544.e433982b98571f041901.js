@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[5544],{866215(e){e.exports=["Go deeper into bond analysis"]},927214(e){e.exports=["Explore historical yield curves, compare countries and dates side by side, and spot key market trends. Register for free to unlock full analysis tools."]}}]);

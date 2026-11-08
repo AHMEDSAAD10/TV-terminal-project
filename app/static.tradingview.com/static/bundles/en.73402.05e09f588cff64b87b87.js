@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[73402],{938306(e){e.exports=["Get more out of the screener"]},158881(e){e.exports=["Join for free to sort, search, and organize the screener your way, and keep the results you build."]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[37128],{43812(e){e.exports=["Got it!"]},201547(e){e.exports=["Long tap to track values."]}}]);

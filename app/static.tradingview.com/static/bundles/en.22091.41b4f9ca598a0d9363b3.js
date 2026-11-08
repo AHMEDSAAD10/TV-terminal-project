@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[22091],{725993(e){e.exports=["Failed to reset account"]},425650(e){e.exports=["Reset"]},443118(e){e.exports=["Reset account"]},190266(e){e.exports=["{accountName} account orders, history, and positions will be deleted, and its balance will be set to a specific value. Note, you can't undo this action."]}}]);

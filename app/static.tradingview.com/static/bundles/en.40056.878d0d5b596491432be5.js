@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[40056],{530110(e){e.exports=["Add private invite-only indicators"]},612323(e){e.exports=["Private invite-only indicators require both the author's permission and a paid plan. Upgrade your subscription to apply the tools traders build for a select few."]}}]);

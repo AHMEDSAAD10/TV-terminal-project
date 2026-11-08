@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[99972],{676728(e){e.exports=["Monitor even more watchlists, plus import/export functionality with one of our upgraded plans — perfect for those who like to keep their opportunities organized."]},773419(e){e.exports=["Sort your symbols better with more watchlists"]}}]);

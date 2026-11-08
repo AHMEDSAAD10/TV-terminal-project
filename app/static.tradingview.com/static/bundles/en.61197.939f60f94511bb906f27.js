@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[61197],{65885(e){e.exports=["Analyze global economic trends at a glance"]},584473(e){e.exports=["Unlock 500+ economic indicators on Macro Maps with one of our upgraded plans. Explore GDP, interest rates, employment, and more across countries and time periods for a clearer view of market conditions."]}}]);

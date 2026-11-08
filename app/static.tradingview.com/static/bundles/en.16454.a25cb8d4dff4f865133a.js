@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[16454],{655009(e){e.exports=["Unlock flagged symbols"]},993062(e){e.exports=["Flag marks are useful for noting points of significance on your watchlists, screeners and charts. Gain access to them by signing up for a free account."]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[9275],{243684(e){e.exports=["Link tabs to keep charts in sync"]},79749(e){e.exports=["Upgrade your plan to unlock tab linking. Group tabs with color tags, so changing the symbol or interval in one updates the rest — even across different windows."]}}]);

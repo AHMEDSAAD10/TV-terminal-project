@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[69583],{560792(e,n,r){r.r(n),r.d(n,{CLASS_NAME_CONTAINER:()=>t,destroyNavHeader:()=>s});const t="js-nav-header";function s(){const e=document.querySelector(`.${t}`);e&&e.remove()}}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[69994],{333836(e){e.exports=["VAH"]},914824(e){e.exports=["VAL"]},57062(e){e.exports=["N/A"]},340927(e){e.exports=["Delta"]},623546(e){e.exports=["Total"]},629399(e){e.exports=["Total buy"]},106328(e){e.exports=["Total sell"]}}]);

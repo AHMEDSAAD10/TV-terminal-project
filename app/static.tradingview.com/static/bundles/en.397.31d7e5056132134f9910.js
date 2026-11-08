@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[397],{28868(e){e.exports=["Copy link"]},992134(e){e.exports=["Facebook"]},940994(e){e.exports=["Save image"]},809337(e){e.exports=["Share to"]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[97242],{202066(e){e.exports=["Expand your access beyond the mobile app"]},534223(e){e.exports=["Your Lite plan allows you to use paid features only within the app. To access these features on the web version, you need to cancel your Lite plan in the app and purchase one of the web plans."]}}]);

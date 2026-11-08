@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[22030],{327947(e){e.exports=["Backtest with higher precision"]},280915(e){e.exports=["Upgrade your plan to unlock additional executions for faster reactions to price changes. Backtest your strategy using historical data from lower timeframes with extra recalculations."]}}]);

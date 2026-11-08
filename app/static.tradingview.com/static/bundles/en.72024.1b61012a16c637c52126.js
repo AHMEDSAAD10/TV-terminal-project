@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[72024],{451615(e){e.exports=["Compare symbols move by move"]},112402(e){e.exports=["Create a free account to compare assets side by side, track their performance over time, and spot your next winning trade."]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[28906],{649044(e){e.exports=["Volume Profile"]},855085(e){e.exports=["This is an extremely valuable tool that highlights the most traded prices over a timeframe. Volume profile is often used by traders to identify basic support and resistance levels so they can time their trades and maximize profits."]}}]);

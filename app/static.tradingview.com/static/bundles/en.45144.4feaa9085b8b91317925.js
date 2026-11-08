@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[45144],{758620(e){e.exports=["Unlock layout"]},386421(e){e.exports=["We've saved your setup — compare symbols, timeframes, and indicators side by side."]},52581(e){e.exports=["Upgrade to restore layout"]}}]);

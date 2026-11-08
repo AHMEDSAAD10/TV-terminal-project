@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[40336],{296996(e){e.exports=["Search"]},787646(e){e.exports=["Add emoji"]},629308(e){e.exports=["No screens match this search"]},738880(e){e.exports=["No result matched your criteria"]},754382(e){e.exports=["Remove selected emoji"]}}]);

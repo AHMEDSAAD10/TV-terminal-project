@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[23866],{748355(a){a.exports=["Try our plans free for {days} days. Access advanced Supercharts and all our features at no cost."]},328269(a){a.exports=["Unlock the full power of TradingView"]},98380(a){a.exports=["Start {days}-day free trial","Start {days}-day free trial"]}}]);

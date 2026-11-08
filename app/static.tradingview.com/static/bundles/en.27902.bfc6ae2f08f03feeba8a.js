@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[27902],{208078(e){e.exports=["Ok"]},72363(e){e.exports=["You are notified"]}}]);

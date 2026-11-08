@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[85213],{241280(e){e.exports=["Get alerts for earnings releases"]},46074(e){e.exports=["Track the latest earnings and revenue announcements in real time and get notified about the companies you actually care about."]}}]);

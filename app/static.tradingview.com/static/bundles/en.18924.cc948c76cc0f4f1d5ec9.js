@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[18924],{129446(e){e.exports=["Unlock 10+ years of data to explore deeper fundamentals and extended historical ranges for every symbol you compare. Available on Premium plan or higher."]},747665(e){e.exports=["Upgrade your plan to view all comparison data"]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[17365],{628159(e){e.exports=["Unlock Bar Replay"]},411519(e){e.exports=["Get a free account with us and watch how pricing data unfolded historically. Rewind markets and review at the speed you desire."]}}]);

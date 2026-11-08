@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[22172],{39244(e){e.exports=["Export data to where you need it"]},417439(e){e.exports=["Upgrade your plan to export financial statements — income statement, balance sheet, or cash flow. With historical data. Easy."]}}]);

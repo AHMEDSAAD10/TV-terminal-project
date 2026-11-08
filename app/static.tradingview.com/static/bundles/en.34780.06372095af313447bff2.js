@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[20866,34780],{820866(e){e.exports=["Close"]},134190(e){e.exports=["Don't miss the deal of the year. Get up to {percent}% off +1 free month."]},526697(e){e.exports=["Explore offers"]},978162(e){e.exports=["{offer_name} sale"]}}]);

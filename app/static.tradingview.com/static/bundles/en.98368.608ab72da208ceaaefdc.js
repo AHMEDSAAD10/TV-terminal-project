@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[2324,98368],{402324(e){e.exports=["OK"]},783835(e){e.exports=["Snapshot seems to contain prohibited content. Please contact {start_link}our support team{end_link} if you have received this by mistake."]},435241(e){e.exports=["Your snapshot was flagged as suspicious"]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[89618],{414018(e){e.exports=["Chart by TradingView"]},300788(e){e.exports=["By TradingView"]},51772(e){e.exports=["by TradingView"]},618359(e){e.exports=["powered by"]},633906(e){e.exports=["powered by TradingView"]},297948(e){e.exports=["{symbol} financials by TradingView"]}}]);

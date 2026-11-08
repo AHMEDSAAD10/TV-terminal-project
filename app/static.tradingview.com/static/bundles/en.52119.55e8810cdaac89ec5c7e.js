@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[52119],{613550(e){e.exports=["Get full access to strategy report"]},670103(e){e.exports=["Upgrade your plan to unlock all data in your strategy reports and expand your testing capabilities."]}}]);

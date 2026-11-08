@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[97278],{8965(n,e,a){a.d(e,{getFinancialsDataV2:()=>t});var i=a(76475);function t(){return(0,i.fetch)("/financial/fundamentals_config_v2/",{credentials:"same-origin",headers:{"Content-Type":"application/json"},method:"GET"}).then((n=>n.json()))}}}]);

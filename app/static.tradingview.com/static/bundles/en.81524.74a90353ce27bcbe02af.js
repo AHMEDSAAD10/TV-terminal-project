@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[81524],{291521(a){a.exports=["Deep Backtesting"]},234644(a){a.exports=["Upgrade your plan today to access backtesting data for any date in a symbol's entire history – at the moment your subscription only allows you to calculate using data loaded on the chart."]}}]);

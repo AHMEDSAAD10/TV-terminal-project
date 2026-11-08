@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[61436],{667653(e){e.exports=["Settings"]},622536(e){e.exports=["Indicators"]},888116(e){e.exports=["Open Pine Tiles"]},158643(e){e.exports=["Close Pine Tiles"]},275679(e){e.exports=["Pine Tiles"]},704230(e){e.exports=["Move tables to chart"]}}]);

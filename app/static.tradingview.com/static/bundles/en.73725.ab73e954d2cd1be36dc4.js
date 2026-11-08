@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[73725],{557660(e){e.exports=["Continue"]},799693(e){e.exports=["Oops! We've detected unusual behavior"]},6506(e){e.exports=["Sorry, our system flagged you as a potential bot. Please click the captcha box and follow the prompts. Your settings will be remembered for your next visit. Thanks!"]}}]);

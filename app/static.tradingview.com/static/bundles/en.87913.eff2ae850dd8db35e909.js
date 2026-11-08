@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[87913],{351979(e){e.exports=["Arrow"]},382535(e){e.exports=["change arrow color"]}}]);

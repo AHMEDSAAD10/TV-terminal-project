@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[79212],{220080(e){e.exports=["Got it"]},865521(e){e.exports=["See the markets second by second"]},228391(e){e.exports=["Upgrade your plan to trade fast and with utmost granularity using Seconds intervals. For advanced traders looking to find their edge."]}}]);

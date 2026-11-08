@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[91356],{299293(e){e.exports=["Join the community"]},949552(e){e.exports=["Find interesting posts in the Editors' Picks section, follow your favorite authors, like and leave comments. Sign up for free and start sharing today."]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[68284],{545903(e){e.exports=["Select order preset"]}}]);

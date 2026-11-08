@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[49394,49501],{349501(e){e.exports=["Click here to learn more"]},754382(e){e.exports=["Remove selected emoji"]}}]);

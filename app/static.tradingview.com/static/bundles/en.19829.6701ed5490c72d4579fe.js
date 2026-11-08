@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[19829],{895182(e){e.exports=["Flip between unlimited customized sets of saved indicators without having to individually toggle them on and off each time, only available on our upgraded plans."]},232784(e){e.exports=["Save your indicators with more templates"]}}]);

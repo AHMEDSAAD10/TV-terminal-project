@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[12424],{179895(e){e.exports=["Choose where you want to search. Screen global markets or a particular region you're interested in. Specify criteria to see only relevant results. Available with our upgraded plans."]},635698(e){e.exports=["Screen any market"]}}]);

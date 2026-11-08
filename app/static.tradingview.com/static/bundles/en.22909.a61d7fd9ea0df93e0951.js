@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[22909],{870182(e){e.exports=["Join the contest"]},25878(e){e.exports=["The Leap by {sponsorName}"]},65721(e){e.exports=["Trade this symbol in a risk-free competition with virtual money and compete for real prizes."]}}]);

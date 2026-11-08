@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[28283],{258141(e){e.exports=["Basic feed runs 15 mins behind the newswire. Upgrade to Essential to read news the moment they are published — streamed to TradingView in real time."]},97538(e){e.exports=["Get real-time news"]},803614(e){e.exports=["Explore all plans"]}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[17683],{908392(e,n,m){m.r(n),m.d(n,{requiredRecommendColumns:()=>c});const c=["Recommend.Other","Recommend.All","Recommend.MA"]}}]);

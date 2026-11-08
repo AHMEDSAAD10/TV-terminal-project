@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[24450],{622922(e){e.exports=["Change alerts color"]},913417(e){e.exports=["Alert lines"]},605934(e){e.exports=["hide alert label lines"]},888548(e){e.exports=["show alert label lines"]}}]);

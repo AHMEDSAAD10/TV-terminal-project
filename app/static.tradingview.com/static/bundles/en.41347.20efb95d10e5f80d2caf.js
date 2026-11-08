@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[41347],{335485(e){e.exports=["Compare instruments faster"]},187732(e){e.exports=["Upgrade your plan to sync your crosshair. Hover over any chart, and the crosshair lines up at the same point on others — no need to switch between tabs and windows."]}}]);

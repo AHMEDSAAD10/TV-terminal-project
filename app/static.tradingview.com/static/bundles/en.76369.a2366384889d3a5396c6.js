@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[76369],{441539(e){e.exports=["SMS verification"]},419137(e){e.exports=["SMS 2-factor authentication helps you secure your account and can help you access it. You'll need one of our upgraded plans to use SMS 2-factor authentication."]},580003(e){e.exports=["This feature is available only for paid plans."]}}]);

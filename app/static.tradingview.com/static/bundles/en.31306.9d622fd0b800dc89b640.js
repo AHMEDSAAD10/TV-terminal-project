@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[31306],{503379(e){e.exports=["Read more reviews"]},33968(e){e.exports=["Thanks for your thoughts"]},904511(e){e.exports=["This feedback helps others make better decisions."]}}]);

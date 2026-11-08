@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[50166],{450166(e){e.exports=["Forecast for {symbol}"]}}]);

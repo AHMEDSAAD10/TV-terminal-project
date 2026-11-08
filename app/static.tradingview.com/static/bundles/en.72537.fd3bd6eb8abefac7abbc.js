@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[72537],{336068(e){e.exports=["Never miss a trade again"]},287658(e){e.exports=["Stay on top of market activity, even away from your desk, with our instant and backed-up alerts — you'll only need a free plan to start."]}}]);

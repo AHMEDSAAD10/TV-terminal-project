@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[87927],{897019(e){e.exports=["Got it"]},204068(e){e.exports=["Edit email"]},533450(e){e.exports=["Welcome new subscribers"]},234557(e){e.exports=["They automatically get a welcome email — make it sound like you. Edit it any time in settings."]}}]);

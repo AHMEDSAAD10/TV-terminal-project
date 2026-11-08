@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[68952],{578011(e){e.exports=["Label"]},977582(e){e.exports=["change {title} background color"]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[12173],{21604(e){e.exports=["Access over {value} trading indicators"]},222314(e){e.exports=["Reveal hidden trends and trading opportunities with more than {value} public indicators. You'll need a free account to access."]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[20866,96482],{820866(o){o.exports=["Close"]},837431(o){o.exports=["A unique opportunity to save up to {discount}% on your subscription has landed — claim it now!"]},526697(o){o.exports=["Explore offers"]},657615(o){o.exports=["{couponName} awaits"]}}]);

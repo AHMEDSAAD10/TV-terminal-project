@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[95019],{51711(e){e.exports=["Don't need"]},698001(e){e.exports=["Show my options"]},397780(e){e.exports=["Close"]},309782(e){e.exports=["Get all our upgraded features — no extra charge."]},928019(e){e.exports=["Take your subscription to the next level"]}}]);

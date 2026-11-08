@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[40563],{678203(e){e.exports=["Data window"]},339208(e){e.exports=["Object tree"]}}]);

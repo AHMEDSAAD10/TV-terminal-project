@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[97918],{893722(e){e.exports=["Go beyond preset intervals — choose any length in seconds to match the way you trade. Available with Ultimate."]},16611(e){e.exports=["Set custom second intervals"]}}]);

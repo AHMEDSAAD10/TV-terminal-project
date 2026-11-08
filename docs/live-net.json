@@ -1,0 +1,62 @@
+{
+  "reqs": [],
+  "errors": [
+    "Failed to load resource: net::ERR_CONNECTION_RESET",
+    "Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+    "Failed to load resource: net::ERR_CONNECTION_TIMED_OUT"
+  ],
+  "menu": [
+    {
+      "tag": "DIV",
+      "dataName": "symbol-list-wrap",
+      "cls": "scrollable-oiK3GoRG",
+      "rect": {
+        "x": 1316,
+        "y": 118,
+        "w": 546,
+        "h": 468
+      },
+      "html": "<div class=\"scrollable-oiK3GoRG\" data-name=\"symbol-list-wrap\"><div class=\"tree-LVUu4GCH\" data-name=\"tree\" tabindex=\"0\" style=\"--tree-node-max-level: 1;\"><div class=\"overlayScrollWrap-LVUu4GCH scrollWrap-XotDuGP8\"><div class=\"wrap-U20ukBUl\" style=\"height: 468px;\"><div class=\"bar-U20ukBUl\" style=\"min-height: 40px; height: 257.07px; transform: translateY(6.59155px);\"><div class=\"barInner-U20ukBUl\"></div></div></div></div><div class=\"listContainer-LVUu4GCH\" style=\"position: relative; height: 468px; width: 546px; overflow: auto; will-change: transform; direction: ltr;\"><div style=\"height: 852px; wi",
+      "text": "GOLD.. GOLD.. X XAUUSD 4,067.390 137.065 3.49% X XAGUSD 52.41300 2.61100 5.24% N NAS100 28,589.2 304.3 1.08% SECTION 2 IND S SWISS20 15,081.0 394.0 2.68% CRYPTO A AAVEUSD 133.23 6.34 5.00% E ETHUSD 2,433.64 162.00 7.13% B BTCUSD 80,582.77 3,246.02 4.20% B BNBUSD 718.72 21.37 3.06% R RUNEUSD 0.64536 0.01408 2.23% N NEARUSD 4.1388 0.3122 8.16% S SUIUSD 0.9394 0.0469 5.25% S SEIUSD 0.049482 0.001955 4.11% S SOLUSD 96.01 3.30 3.56% A AVAXUSD 8.853 0.349 4.10% L LINKUSD 11.564 0.551 5.00% X XRPUSD 1."
+    },
+    {
+      "tag": "DIV",
+      "dataName": "tree",
+      "cls": "tree-LVUu4GCH",
+      "rect": {
+        "x": 1316,
+        "y": 118,
+        "w": 546,
+        "h": 468
+      },
+      "html": "<div class=\"tree-LVUu4GCH\" data-name=\"tree\" tabindex=\"0\" style=\"--tree-node-max-level: 1;\"><div class=\"overlayScrollWrap-LVUu4GCH scrollWrap-XotDuGP8\"><div class=\"wrap-U20ukBUl\" style=\"height: 468px;\"><div class=\"bar-U20ukBUl\" style=\"min-height: 40px; height: 257.07px; transform: translateY(6.59155px);\"><div class=\"barInner-U20ukBUl\"></div></div></div></div><div class=\"listContainer-LVUu4GCH\" style=\"position: relative; height: 468px; width: 546px; overflow: auto; will-change: transform; direction: ltr;\"><div style=\"height: 852px; width: 100%;\"><div class=\"sticky-WY8T8tYi\"><div class=\"wrap-fLRX",
+      "text": "GOLD.. GOLD.. X XAUUSD 4,067.390 137.065 3.49% X XAGUSD 52.41300 2.61100 5.24% N NAS100 28,589.2 304.3 1.08% SECTION 2 IND S SWISS20 15,081.0 394.0 2.68% CRYPTO A AAVEUSD 133.23 6.34 5.00% E ETHUSD 2,433.64 162.00 7.13% B BTCUSD 80,582.77 3,246.02 4.20% B BNBUSD 718.72 21.37 3.06% R RUNEUSD 0.64536 0.01408 2.23% N NEARUSD 4.1388 0.3122 8.16% S SUIUSD 0.9394 0.0469 5.25% S SEIUSD 0.049482 0.001955 4.11% S SOLUSD 96.01 3.30 3.56% A AVAXUSD 8.853 0.349 4.10% L LINKUSD 11.564 0.551 5.00% X XRPUSD 1."
+    },
+    {
+      "tag": "DIV",
+      "dataName": null,
+      "cls": "overlayScrollWrap-LVUu4GCH scrollWrap-XotDuGP8",
+      "rect": {
+        "x": 1316,
+        "y": 118,
+        "w": 546,
+        "h": 468
+      },
+      "html": "<div class=\"overlayScrollWrap-LVUu4GCH scrollWrap-XotDuGP8\"><div class=\"wrap-U20ukBUl\" style=\"height: 468px;\"><div class=\"bar-U20ukBUl\" style=\"min-height: 40px; height: 257.07px; transform: translateY(6.59155px);\"><div class=\"barInner-U20ukBUl\"></div></div></div></div>",
+      "text": ""
+    },
+    {
+      "tag": "DIV",
+      "dataName": null,
+      "cls": "listContainer-LVUu4GCH",
+      "rect": {
+        "x": 1316,
+        "y": 118,
+        "w": 546,
+        "h": 468
+      },
+      "html": "<div class=\"listContainer-LVUu4GCH\" style=\"position: relative; height: 468px; width: 546px; overflow: auto; will-change: transform; direction: ltr;\"><div style=\"height: 852px; width: 100%;\"><div class=\"sticky-WY8T8tYi\"><div class=\"wrap-fLRXLkKY\" draggable=\"true\" style=\"--tree-node-level: 1;\"><div class=\"separator-Ab1bR7Gq separator-oiK3GoRG\" data-collapsed=\"false\"><div class=\"innerWrapper-Ab1bR7Gq hasExpand-Ab1bR7Gq\"><span role=\"img\" class=\"expandHandle-Ab1bR7Gq\" aria-hidden=\"true\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 18 18\" width=\"18\" height=\"18\"><path fill=\"currentColor\" d=\"m",
+      "text": "GOLD.. GOLD.. X XAUUSD 4,067.390 137.065 3.49% X XAGUSD 52.41300 2.61100 5.24% N NAS100 28,589.2 304.3 1.08% SECTION 2 IND S SWISS20 15,081.0 394.0 2.68% CRYPTO A AAVEUSD 133.23 6.34 5.00% E ETHUSD 2,433.64 162.00 7.13% B BTCUSD 80,582.77 3,246.02 4.20% B BNBUSD 718.72 21.37 3.06% R RUNEUSD 0.64536 0.01408 2.23% N NEARUSD 4.1388 0.3122 8.16% S SUIUSD 0.9394 0.0469 5.25% S SEIUSD 0.049482 0.001955 4.11% S SOLUSD 96.01 3.30 3.56% A AVAXUSD 8.853 0.349 4.10% L LINKUSD 11.564 0.551 5.00% X XRPUSD 1."
+    }
+  ]
+}

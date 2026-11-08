@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[735,69694],{620418(e){e.exports=["Custom column set change"]},213767(e){e.exports=["Apply changes"]},669694(e){e.exports=["Don't show again"]},986141(e){e.exports=['The changes you’re about to make will overwrite your "Custom" column set. You cool with that?']}}]);

@@ -1,0 +1,24 @@
+{
+  "browser": {
+    "mode": "connect",
+    "cdp_endpoint": "http://127.0.0.1:999",
+    "target_id": "2164C925EE7E15575217725E62F5140B"
+  },
+  "start_url": { "url": "https://www.tradingview.com/chart/j3mUKCaZ/" },
+  "capture": {
+    "after_each_step": ["screenshot", "dom", "accessibility"],
+    "at_end": ["url", "screenshot", "dom", "accessibility"],
+    "events": ["network", "websockets", "console", "page-errors", "workers"],
+    "network": { "request_body": false, "response_body": false, "header_values": false },
+    "limits": { "max_events": 50000, "max_network_transactions": 5000 }
+  },
+  "actions": [
+    { "step_id": "ready", "action": "wait_for", "timeout_ms": 30000, "locator": { "kind": "css", "selector": "#header-toolbar-replay" }, "state": "visible" },
+    { "step_id": "set-daily", "action": "click", "timeout_ms": 15000, "locator": { "kind": "role", "role": "radio", "name": "1 day" } },
+    { "step_id": "interval-settle", "action": "wait_for_timeout", "duration_ms": 2500 },
+    { "step_id": "open-replay", "action": "click", "timeout_ms": 15000, "locator": { "kind": "css", "selector": "#header-toolbar-replay" } },
+    { "step_id": "mode-settle", "action": "wait_for_timeout", "duration_ms": 1800 },
+    { "step_id": "pick-start", "action": "click", "timeout_ms": 15000, "locator": { "kind": "css", "selector": "canvas[aria-label*=\"Chart for\"]" } },
+    { "step_id": "panel-settle", "action": "wait_for_timeout", "duration_ms": 3000 }
+  ]
+}

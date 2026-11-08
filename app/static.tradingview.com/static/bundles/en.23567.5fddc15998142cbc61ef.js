@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[23567],{111968(e){e.exports=["H1 {year}"]},599124(e){e.exports=["H2 {year}"]},271718(e){e.exports=["Q1 {year}"]},998210(e){e.exports=["Q2 {year}"]},77326(e){e.exports=["Q3 {year}"]},244138(e){e.exports=["Q4 {year}"]}}]);

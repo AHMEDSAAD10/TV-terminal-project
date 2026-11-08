@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[84939],{613600(e){e.exports=["View in Pine Editor"]},697760(e){e.exports=["{lines} line","{lines} lines"]}}]);

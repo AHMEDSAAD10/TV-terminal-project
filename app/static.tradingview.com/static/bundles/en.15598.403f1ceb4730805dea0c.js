@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[15598],{12e4(e){e.exports=["Create posts just for your followers"]},264033(e){e.exports=["Upgrade your plan to share updates exclusively with your community. Post freely on your profile with more room for context, discussion, and ideas beyond individual symbols."]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[38715],{786222(e){e.exports=["Organize your drawings in nested groups"]},756268(e){e.exports=["Upgrade your plan to unlock nested groups. Arrange your drawings into custom multi-level structures and keep your charts clutter-free and easy to navigate."]}}]);

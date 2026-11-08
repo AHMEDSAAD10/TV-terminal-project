@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[11680],{401926(e){e.exports=["change point"]},288570(e){e.exports=["exclude line tools from group {group}"]},541659(e){e.exports=["remove line data sources"]},718757(e){e.exports=["update indicator to latest version"]},410148(e){e.exports=["update {title} script"]}}]);

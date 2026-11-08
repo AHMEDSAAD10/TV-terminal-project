@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[18750],{718750(e){e.exports=["You can’t trade the symbol {symbol} within the Replay session."]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[99957],{599957(e){e.exports=["See on Supercharts"]}}]);

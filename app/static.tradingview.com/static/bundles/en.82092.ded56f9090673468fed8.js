@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[82092],{699954(e){e.exports=["Take your contests public"]},552791(e){e.exports=["Your current plan lets you create contests by invitation link only. Upgrade to Premium or higher to create public contests that anyone on TradingView can join."]}}]);

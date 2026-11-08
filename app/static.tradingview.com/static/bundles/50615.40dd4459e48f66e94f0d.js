@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[50615],{350615(e,n,c){c.r(n),c.d(n,{detect:()=>t});const t=()=>({encoding:"utf8",confidence:1})}}]);

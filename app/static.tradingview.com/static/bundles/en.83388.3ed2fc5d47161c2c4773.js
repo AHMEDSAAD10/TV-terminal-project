@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[83388],{433615(e){e.exports=["Open Manage Drawings"]},67619(e){e.exports=["Not Now"]},889872(e){e.exports=["Your chart is too large and cannot be saved. Remove some objects from the chart and try again."]}}]);

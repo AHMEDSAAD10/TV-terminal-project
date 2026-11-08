@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[21066],{910304(e){e.exports=["Close chat toast"]},812001(e){e.exports=["Open chat"]},247351(e){e.exports=["You have unread messages from {username}"]}}]);

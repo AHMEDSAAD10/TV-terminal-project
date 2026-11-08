@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[85362],{385362(e){e.exports=["Keyboard shortcuts"]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[32013],{919305(e){e.exports=["Create a free account to download CSV data"]},969349(e){e.exports=["Sign up in seconds to get ready-to-use tables with key bond yield data. Explore all the information you need, in a convenient format, and it's right at your fingertips!"]}}]);

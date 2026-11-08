@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[20866,30701],{711060(e){e.exports=["Guess who's back?"]},820866(e){e.exports=["Close"]},111898(e){e.exports=["Got it"]},83970(e){e.exports=["It's you. We've canceled your deletion request. Everything's right where you left it — like you were never gone."]}}]);

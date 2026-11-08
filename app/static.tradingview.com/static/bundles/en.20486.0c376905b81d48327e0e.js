@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[20486],{191819(e){e.exports=["Alerts enabled"]},245912(e){e.exports=["Flows"]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[68122],{774884(e){e.exports=["Customize and save your screens"]},838285(e){e.exports=["Sign up for free to create new screens from scratch, tailor popular ones to your needs, and save your setups for future use. Adjust columns and filters to find assets quicker."]}}]);

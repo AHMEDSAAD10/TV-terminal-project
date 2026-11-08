@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[40284],{243182(e){e.exports=["Buy real-time data"]},508924(e){e.exports=["To catch every small change, you need to see every trade, only on our upgraded plans. Never miss a beat again."]},83366(e){e.exports=["Unlock the fastest data flow possible"]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[82729],{153555(a){a.exports=["Upgrade your plan to buy real-time data"]},54047(a){a.exports=["You need a paid TradingView plan to purchase data subscriptions and track the markets in real-time."]}}]);

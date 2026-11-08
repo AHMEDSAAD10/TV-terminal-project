@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[55113],{259791(e){e.exports=["Join for free to chart every bond metric. Switch between yield, price, spread, and more to see the whole picture behind a bond."]},136487(e){e.exports=["Unlock advanced bond metrics"]}}]);

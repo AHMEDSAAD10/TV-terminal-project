@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[45291],{370263(e){e.exports=["1-second update interval"]},100973(e){e.exports=["Your current plan doesn’t support 1-second updates during replay. To unlock this feature and enjoy smoother, more precise playback, upgrade to a Premium plan or higher."]}}]);

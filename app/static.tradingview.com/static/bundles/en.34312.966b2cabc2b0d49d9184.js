@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[34312],{134312(e){e.exports=["Economy indicators"]}}]);

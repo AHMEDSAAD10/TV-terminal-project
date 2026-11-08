@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[71237],{105993(e){e.exports=["Offer ends today"]},711278(e){e.exports=["Offer ends in {offerDuration} day","Offer ends in {offerDuration} days"]},616612(e){e.exports=["{days}-day free trial","{days}-day free trial"]}}]);

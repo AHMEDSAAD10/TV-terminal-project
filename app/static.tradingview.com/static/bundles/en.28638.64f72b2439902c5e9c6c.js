@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[28638],{48615(e){e.exports=["Access enhanced cumulative PnL charts and analyze your trades in the fullest detail with zoom functionality. Available on upgraded plans."]},398012(e){e.exports=["Upgrade to see charts in detail"]}}]);

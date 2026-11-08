@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[23189],{338712(e){e.exports=["Launch the mission"]},143016(e){e.exports=["Close"]},967347(e){e.exports=["Suit up and get ready to explore every highlight of your trading galaxy."]},452077(e){e.exports=["Your {year} space mission is here"]}}]);

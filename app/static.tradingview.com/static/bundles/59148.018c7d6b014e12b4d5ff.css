@@ -1,0 +1,1 @@
+.tv-list-plain{line-height:1.8;list-style-position:inside}ul.tv-list-plain{list-style:none}ul.tv-list-plain li{padding-inline-start:1.3em;position:relative}ul.tv-list-plain li:before{content:"\2022";display:block;inset-inline-start:0;position:absolute}ul.tv-sub-list{margin-top:12px}

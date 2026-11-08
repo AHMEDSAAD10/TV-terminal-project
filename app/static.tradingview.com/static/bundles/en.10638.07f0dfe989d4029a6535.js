@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[10638],{279666(e){e.exports=["Apply technical indicators in screeners"]},636067(e){e.exports=["Explore trends using up to five indicators at once, including EMA, SMA, and volume — directly in screeners' chart view."]}}]);

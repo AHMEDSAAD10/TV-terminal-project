@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[20580],{620580(e){e.exports=["Latest updates"]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[55772],{15398(e){e.exports=["Get full access to Bond Screener"]},551257(e){e.exports=["Upgrade to Ultimate to explore bond markets without limitations. See full results, apply the filters you need, and get more out of your analysis."]}}]);

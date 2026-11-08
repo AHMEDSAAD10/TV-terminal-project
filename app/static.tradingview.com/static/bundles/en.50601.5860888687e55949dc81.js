@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[50601],{39244(e){e.exports=["Export data to where you need it"]},609528(e){e.exports=["Upgrade your plan to export all the chart info you need. Easy."]}}]);

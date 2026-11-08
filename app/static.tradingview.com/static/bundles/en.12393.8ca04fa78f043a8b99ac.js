@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[12393],{610045(e){e.exports=["Reset zoom"]},487874(e){e.exports=["Zoom in"]},314534(e){e.exports=["Zoom out"]}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[89829],{63979(e,s,t){t.r(s),t.d(s,{cookiesStageSuccessfulPassed:()=>u,setCookieStageStatus:()=>c});const a=new(t(98977).WatchedValue)(!1),u=a.readonly();function c(e){a.setValue(e)}}}]);

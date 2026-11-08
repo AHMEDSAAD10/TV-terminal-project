@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[91913],{208078(e){e.exports=["Ok"]},104982(e){e.exports=["Report could not be sent due to a server error. Please refresh the page and try again."]},193817(e){e.exports=["Your request failed. You have already submitted a similar request."]}}]);

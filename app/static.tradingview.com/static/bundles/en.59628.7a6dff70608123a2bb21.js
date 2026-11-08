@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[59628],{901196(e){e.exports=["Session volume profile"]},942603(e){e.exports=["Session volume profile (SVP) calculates volume data within a specified session or a sub-session, allowing traders to analyze the intraday volume activity of one specific part of the session."]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[41162,92267],{818781(e){e.exports=["New Update"]},716479(e){e.exports=["You've changed the user interface to the {name} theme. Would you like to switch the chart template's theme too?"]}}]);

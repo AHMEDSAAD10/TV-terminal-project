@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[85324],{592611(e){e.exports=["All"]},476407(e){e.exports=["D W M"]},259986(e){e.exports=["Screener with all time frames"]},305690(e){e.exports=["{proPlan}, {proPlusPlan} and {premiumPlan} users can use the Screener on any time frame!"]}}]);

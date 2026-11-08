@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[78194],{136764(e){e.exports=["Manage alerts"]},598386(e){e.exports=["News alert limit reached"]},993562(e){e.exports=["To set up a new alert, you'll need to turn off one of your {count} active alert first.","To set up a new alert, you'll need to turn off one of your {count} active alerts first."]}}]);

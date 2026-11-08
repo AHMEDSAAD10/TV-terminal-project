@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[88467],{488467(e){e.exports=["Link to X post"]}}]);

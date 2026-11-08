@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[97019],{374739(e){e.exports=["Find the perfect combos with Pine Screener"]},843889(e){e.exports=["Scan assets by using your and community scripts to find the perfect matches. Available with a Premium plan and higher."]}}]);

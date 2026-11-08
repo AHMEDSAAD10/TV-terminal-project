@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[80925],{366258(e){e.exports=["Connection stopped"]},130815(e){e.exports=["Reconnect"]},948204(e){e.exports=["Reload page"]},951631(e){e.exports=["The server kept rejecting the connection, so the chart stopped reconnecting. Reconnect to try again. If it happens again, reload the page."]}}]);

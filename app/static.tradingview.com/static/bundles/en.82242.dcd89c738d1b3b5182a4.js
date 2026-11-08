@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[82242],{935387(e){e.exports=["Collapse"]},679579(e){e.exports=["Copy to clipboard"]},492150(e){e.exports=["Code copied to clipboard"]},64099(e){e.exports=["Expand {lineCount} line","Expand {lineCount} lines"]}}]);

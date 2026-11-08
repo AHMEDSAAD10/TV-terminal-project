@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[76811],{276811(e){e.exports=["#{count} (bar)"]}}]);

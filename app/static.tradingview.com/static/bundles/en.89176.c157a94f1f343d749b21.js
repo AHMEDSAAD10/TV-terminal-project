@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[89176],{698790(e){e.exports=["Supercharge your trading with dynamic alerts that track multi-conditions. Available from the Plus plan, giving you sharper insights and more control over your market moves."]},196541(e){e.exports=["Power up alerts with multi-conditions"]}}]);

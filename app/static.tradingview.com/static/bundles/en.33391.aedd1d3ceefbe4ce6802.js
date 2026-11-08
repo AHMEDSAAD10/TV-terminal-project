@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[33391],{939187(e){e.exports=["Clear chat"]},514081(e){e.exports=["This will permanently delete all messages. Are you sure you want to proceed?"]},775789(e){e.exports=["Yes, clear chat"]}}]);

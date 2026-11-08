@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[8423],{199125(e){e.exports=["If you switch to annual billing, you save {percent}% — that’s like getting {months} months free compared to paying monthly."]},993711(e){e.exports=["Manage subscription"]},618585(e){e.exports=["Save with an annual subscription"]}}]);

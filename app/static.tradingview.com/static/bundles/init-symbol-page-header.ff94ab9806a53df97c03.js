@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[9532],{662811(e,t,a){let r;function s(e){r=e}a.d(t,{categorySearchCharts:()=>r,setCategorySearchCharts:()=>s})}}]);

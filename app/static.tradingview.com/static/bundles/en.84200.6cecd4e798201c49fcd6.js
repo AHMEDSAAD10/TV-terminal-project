@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[84200],{165248(e){e.exports=["Build, refine, and save your strategies"]},674281(e){e.exports=["Sign up for free to customize and keep your strategy conditions. Come back anytime to adjust parameters, test on other symbols, and see what works best."]}}]);

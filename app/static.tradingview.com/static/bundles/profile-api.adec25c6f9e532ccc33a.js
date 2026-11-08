@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[3961],{1387(e,n,r){r.d(n,{getProfile:()=>a});var t=r(76475);async function a(e){const n=await(0,t.fetch)(`/api/v1/user/profile/${e}/?by=username`);return n.ok?n.json():n.json().then((e=>{throw new Error(e.detail)}))}}}]);

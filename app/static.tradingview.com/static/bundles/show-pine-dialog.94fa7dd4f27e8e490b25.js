@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[54160],{590499(e,i,n){n.d(i,{PINE_PRODUCT_ID:()=>_,PINE_SPLIT_PANEL_ID:()=>P});const P="pine",_="pine"},193506(e,i,n){n.d(i,{showPineDialog:()=>I});var P=n(948235),_=n(590499),s=n(236393);function I(e){return(0,P.service)(s.PAGE_LAYOUT_SERVICE).showSidePanel(_.PINE_SPLIT_PANEL_ID,e)}}}]);

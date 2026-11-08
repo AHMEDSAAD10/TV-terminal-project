@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[27902,68107],{862699(e){e.exports=["Failed to sign the Exchange Agreement"]},208078(e){e.exports=["Ok"]},905628(e){e.exports=["Unable to add exchange {exchange} to the agreement"]},72363(e){e.exports=["You are notified"]}}]);

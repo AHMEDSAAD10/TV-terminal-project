@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[12948],{950452(e){e.exports=["Create your first watchlist"]},108731(e){e.exports=["Access and sort-through your portfolio way faster with a bespoke watchlist, instantly available when you sign up for a free account."]}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[44549],{545224(e){e.exports=["Overnight via BOATS"]},670568(e){e.exports=["10 years"]},290787(e){e.exports=["All time"]},673523(e){e.exports=["Past year"]},878708(e){e.exports=["Past five years"]},430333(e){e.exports=["Past month"]},44656(e){e.exports=["Past quarter"]}}]);

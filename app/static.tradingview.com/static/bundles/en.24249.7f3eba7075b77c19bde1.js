@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[24249],{927562(e){e.exports=["Go Premium for deeper ETF insights"]},781278(e){e.exports=["Explore detailed ETF holdings data, including weight, shares, and market value with an upgraded plan."]}}]);

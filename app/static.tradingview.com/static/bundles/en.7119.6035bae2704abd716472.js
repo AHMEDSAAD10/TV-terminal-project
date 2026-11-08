@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[7119],{788349(e){e.exports=["Get auto refresh for your screeners"]},529299(e){e.exports=["Keep your screener results up to date with automatic refreshes every 10 seconds or every minute. Only available with our upgraded plans."]}}]);

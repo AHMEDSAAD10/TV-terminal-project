@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[72095],{307296(e){e.exports=["To take on this contest, you'll need a paid or trial subscription — {link}see all plans{_link}."]},306779(e){e.exports=["To take on this contest, you'll need a paid subscription — {link}see all plans{_link}."]},61106(e){e.exports=["The Leap isn't available on free plans"]}}]);

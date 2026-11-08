@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[93290],{322054(o){o.exports=["Choose a watchlist"]},284632(o){o.exports=["To choose one of your watchlists and add a symbol, use {shortcut} or click on the button below."]},160568(o){o.exports=["You're working with a read-only list"]}}]);

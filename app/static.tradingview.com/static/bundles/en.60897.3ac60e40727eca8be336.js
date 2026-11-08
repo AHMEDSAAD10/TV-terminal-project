@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[60897],{467347(e){e.exports=["Create, customize, and save news feeds to stay up to date on the assets you really care about."]},905255(e){e.exports=["Get more from News Flow"]}}]);

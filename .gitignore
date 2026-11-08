@@ -1,0 +1,19 @@
+# Credentials — never commit
+auth-token.txt
+cookie-header.txt
+session-cookie.txt
+app/auth-token.txt
+app/cookie-header.txt
+app/session-cookie.txt
+
+# Runtime logs
+*.log
+proxy-debug*.log
+
+# Node
+node_modules/
+
+# Media / scratch captures
+*.mp4
+.DS_Store
+Thumbs.db

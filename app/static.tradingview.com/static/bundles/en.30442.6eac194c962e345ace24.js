@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[30442],{347833(e){e.exports=["First bar time"]},365061(e){e.exports=["Lower Deviation"]},74397(e){e.exports=["Last bar time"]},538948(e){e.exports=["Source"]},599009(e){e.exports=["Upper Deviation"]},58081(e){e.exports=["Use Lower Deviation"]},208745(e){e.exports=["Use Upper Deviation"]}}]);

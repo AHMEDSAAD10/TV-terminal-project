@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[37560],{437560(e,a,i){i.d(a,{Mermaid:()=>r.l});var r=i(714826)}}]);

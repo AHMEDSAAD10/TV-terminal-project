@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[2441],{28293(e){e.exports=["Add alert"]},486373(e){e.exports=["Edit alert on {title}"]}}]);

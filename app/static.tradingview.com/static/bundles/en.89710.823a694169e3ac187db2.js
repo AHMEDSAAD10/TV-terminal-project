@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[89710],{133032(e){e.exports=["Access fundamental data over even longer time periods with one of our upgraded plans."]},982437(e){e.exports=["Get financial data over longer time periods"]}}]);

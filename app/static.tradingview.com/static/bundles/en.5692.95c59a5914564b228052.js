@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[5692],{152843(e){e.exports=["You: {text}"]},169560(e){e.exports=["Chart Snapshot"]},624166(e){e.exports=["{username} entered the chat"]},670105(e){e.exports=["{username} left the chat"]}}]);

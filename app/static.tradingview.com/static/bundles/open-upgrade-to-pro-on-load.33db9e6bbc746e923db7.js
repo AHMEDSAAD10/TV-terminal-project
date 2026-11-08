@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[39139],{219365(e,r,o){o.d(r,{openUpgradeToProOnLoad:()=>d});var s=o(594912),a=o(409820),n=o(267457);const d=()=>{n.shopConfService.runOrUpdate((()=>{Boolean(window.user.declared_status===a.UserStatus.Pro&&!window.user?.is_expert&&window.user?.is_pro)&&(0,s.showUpgradeToProDialog)()}))}}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[84900],{927715(e){e.exports=["High request volume."]},480034(e){e.exports=["Support wait times are longer than usual. We apologize and suggest using the chat assistant for faster assistance."]}}]);

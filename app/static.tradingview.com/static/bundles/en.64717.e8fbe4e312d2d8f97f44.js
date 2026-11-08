@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[64717],{989458(e){e.exports=["Second-Based Chart Alerts"]},910018(e){e.exports=["Upgrade your plan to unlock this feature. Get alerts on a second-based chart delivered through email, mobile or desktop notifications."]}}]);

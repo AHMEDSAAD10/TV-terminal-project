@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[65447],{9439(t){t.exports=["Access alerts for fundamental metrics"]},189041(t){t.exports=["Stay on top of the latest valuation updates with alerts for market cap, price-to-book ratio, and other fundamental metrics."]}}]);

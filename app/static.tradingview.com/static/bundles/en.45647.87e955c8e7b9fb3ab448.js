@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[45647],{544912(e){e.exports=["Sign up for free to open this heatmap in the screener with the same setup and dive deeper with dozens of filters. Explore the same selection from different angles."]},66694(e){e.exports=["Refine your heatmap with screener filters"]}}]);

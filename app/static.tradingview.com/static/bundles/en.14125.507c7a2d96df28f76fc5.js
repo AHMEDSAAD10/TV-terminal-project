@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[14125],{834280(e){e.exports=["Control heatmap color depth"]},793674(e){e.exports=["Upgrade your plan to adjust color depth and reveal more detail in your heatmap. Highlight subtle market moves or focus on the biggest changes."]}}]);

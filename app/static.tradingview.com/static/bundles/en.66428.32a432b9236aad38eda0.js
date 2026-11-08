@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[66428],{195138(e){e.exports=["Just missed it"]},858351(e){e.exports=["See all competitions"]},394805(e){e.exports=["The sign-up for this competition has passed, but more contests are on their way."]}}]);

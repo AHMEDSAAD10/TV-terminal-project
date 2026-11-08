@@ -1,0 +1,1 @@
+(self.webpackChunktradingview=self.webpackChunktradingview||[]).push([[79225],{343735(e){e.exports=["Open {contract} in options chain"]},544096(e){e.exports=["Open in options chain"]},153980(e){e.exports=["Open {contract} in strategy builder"]},895149(e){e.exports=["Open in strategy builder"]}}]);
